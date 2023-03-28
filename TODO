@@ -1,0 +1,16 @@
+## To Do
+
+- MPI implementation
+- CUDA implementation
+- Marching ants implementation
+    * [ ] single-thread
+    * [ ] multi-thread
+- particle swarm optimization (pso) implementation
+    * [ ] single-thread
+    * [ ] multi-thread
+- Genetic algorithm
+    * [ ] single-thread
+    * [ ] multi-thread
+
+## Done
+
